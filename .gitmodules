@@ -4,3 +4,6 @@
 [submodule "BuilderBox-Educhain-contracts"]
 	path = BuilderBox-Educhain-contracts
 	url = https://github.com/namankhandelwal1607/BuilderBox-Educhain-contracts
+[submodule "submodules/contract"]
+	path = submodules/contract
+	url = https://github.com/namankhandelwal1607/BuilderBox-Educhain-contracts.git
