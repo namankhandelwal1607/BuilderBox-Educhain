@@ -1,3 +1,6 @@
 [submodule "BuilderBox_SmartContracts"]
 	path = BuilderBox_SmartContracts
 	url = https://github.com/namankhandelwal1607/BuilderBox_SmartContracts
+[submodule "BuilderBox-Educhain-contracts"]
+	path = BuilderBox-Educhain-contracts
+	url = https://github.com/namankhandelwal1607/BuilderBox-Educhain-contracts
